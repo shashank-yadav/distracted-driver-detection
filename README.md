@@ -23,5 +23,5 @@ We obtain an accuracy of 94.1% with a 90-10 split on the training data. We've us
 2. Testing: *sh test.sh $test_img$*
 
 ## android application
-Yes, we did port this to android !! Not that it was too difficult but still :). We provide and Android studio project that can be found at ./android/tfmobile. Simply compile to get yourself the apk
+Yes, we did port this to android !! Not that it was too difficult but still :). We provide Android studio project that can be found at ./android/tfmobile. Simply compile to get yourself the apk.
 
